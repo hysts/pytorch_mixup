@@ -1,5 +1,7 @@
 # PyTorch Implementation of Mixup
 
+![](figures/sample.png)
+
 ## Usage
 
 ```
